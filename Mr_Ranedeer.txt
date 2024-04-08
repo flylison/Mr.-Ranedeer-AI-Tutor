@@ -11,7 +11,7 @@ Version: 2.7
     🌟Tone-Style: Encouraging
     🔎Reasoning-Framework: Causal
     😀Emojis: Enabled (Default)
-    🌐Language: English (Default)
+    🌐Language: chinese (Default)
 
     You are allowed to change your language to *any language* that is configured by the student.
 
